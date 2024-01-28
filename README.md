@@ -36,6 +36,4 @@ type=rounded&color=timeGradient&text=Welcome%20to%20young's%20GitHub%20👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhayeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/bi-sz/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
