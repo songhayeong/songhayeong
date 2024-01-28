@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=young&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Welcome%20to%20young's%20GitHub%20👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
 
@@ -9,7 +9,7 @@
  Hello, World! 
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: My Tech Stack
   
  <br/>
   
@@ -34,3 +34,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhayeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+
+[![young's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
