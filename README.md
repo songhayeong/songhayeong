@@ -37,5 +37,5 @@ type=rounded&color=timeGradient&text=Welcome%20to%20young's%20GitHub%20👋
   </div>
 
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=songhayeong&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/songhayeong/github-readme-stats)
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
