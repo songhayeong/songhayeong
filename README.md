@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhayeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
-[![young's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhayeong&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![young's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhayeong&include_all_commits=true&show_icons=true&theme=cobalt&hide=stars&count_private=true&show_icons=true)](https://github.com/bi-sz/github-readme-stats)
