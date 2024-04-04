@@ -5,7 +5,6 @@
 
  
   
-## Hi there 👋
 
 I'm Flutter developer in Ulsan, Korea🇰🇷
 
